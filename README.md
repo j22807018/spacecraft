@@ -1,4 +1,0 @@
-spacecraft
-==========
-
-a game
